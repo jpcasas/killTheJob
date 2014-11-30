@@ -3,25 +3,23 @@ killTheJob
 
 Game For IT School Race
 
-#Descripcion
+#Description 
+KILL the job est un jeu de guerre dont l'objectif principal est d'éliminer les ennemies de chaque niveaux 
 
+##Développement
+Le jeu a été développé via le moteur de jeux JmonkeyEngine, ce moteur est un moteur de développement en Java. Ce moteur permet de créer des jeux pour les plateformes Android
 
-Kill the Job es un juego de guerra donde el objetivo principal es eliminar los enemigos que aparecen en cada nivel.
+##Comportement
 
-##Desarrollo
-El juego fue desarrollado utilizando el motor de juegos JmonkeyEngine, este es un motor desarrollado en java. Este motor permite generar juegos para las plataformas Android
+###Début
+Au début du jeu le joueur doit choisir des critères de recherche d'emploi, ces critères utiliseront alors un service Web qui retournera la liste des emplois disponibles avec les critères de recherches souhaités
 
-###Comportamiento
+###Objectif
+Le joueur doit éliminer la plus grande quantité d'énemies pour obtenir des points et ainsi augmenter de niveau, lors d'une certaine de quantité de points acumulés le joueur pourra consulter et sauvegarder les offres démplois
 
-###Inicio
-En el inicio del juego el jugador elige los criterios de busqueda de empleo, estos criterios utilizaran un servicio web que devolvera la lista de empleos dispobibles con los criterios de busqueda
+###Niveaux
+Le joueur doit avancer au fil des niveaux et a chaque niveau il rencontrera différents ennemies, avec des comportements et style d'attaque différents 
 
-###Objetivo
-El jugador debe elminiar a la mayor cantidad de enemigos para obtener putos y aumentar de nivel, con cada cierta cantidad de puntos acumulada el juegador puede revisar y almacenar las ofertas de empleo.
+###Objectif final
+Obtenir le plus grand nombre de points et réussir a collecter le plus d'offres d'emplois 
 
-###Niveles
-El Jugador avanza á traves de los niveles, cada nivele se encuentra con diferentes enemigos, con diferentes comportamientos y formas de ataque.
-
-#Objetivo
---------
-Conseguir todos los resultados de la busqueda y obtener la mayor cantidad de puntos 

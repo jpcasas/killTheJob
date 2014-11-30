@@ -1,0 +1,22 @@
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\bin\MyGame.ap_ \
+ : C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\res\drawable-ldpi\ic_launcher.png \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\res\layout\main.xml \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\res\values\strings.xml \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\bin\res\drawable-hdpi\ic_launcher.png \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\bin\res\drawable-ldpi\ic_launcher.png \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\bin\res\drawable-mdpi\ic_launcher.png \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\bin\res\drawable-xhdpi\ic_launcher.png \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\assets\Interface \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\assets\MatDefs \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\assets\Materials \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\assets\META-INF \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\assets\Models \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\assets\Scenes \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\assets\Shaders \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\assets\Sounds \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\assets\Textures \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\assets\META-INF\MANIFEST.MF \
+C:\Users\Juan\.jmonkeyplatform\assetpacks\TheKillJobMobile\mobile\bin\AndroidManifest.xml \
