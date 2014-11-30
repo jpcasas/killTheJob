@@ -2,9 +2,10 @@ killTheJob
 ==========
 
 Game For IT School Race
-![KTJ](https://lh4.googleusercontent.com/JG3zT502-LGA6p95Sl-lfuyOZmGcdAaTgyOhpO-AUYehycg15EhCQbQ2XAjkZzJVTXfJ=w1896-h859)
+![KTJ](https://raw.githubusercontent.com/jpcasas/killTheJob/master/screenshot.png)
 
-
+### Try it here 
+  * [Android](https://raw.githubusercontent.com/jpcasas/killTheJob/master/KillTheJob.apk)
 
 #Description 
 KILL the job est un jeu de guerre dont l'objectif principal est d'éliminer les ennemies de chaque niveaux 
@@ -26,3 +27,5 @@ Le joueur doit avancer au fil des niveaux et a chaque niveau il rencontrera diff
 ###Objectif final
 Obtenir le plus grand nombre de points et réussir a collecter le plus d'offres d'emplois 
 
+##Video
+(https://www.youtube.com/watch?v=nimVIUV_aDU)
