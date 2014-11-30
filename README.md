@@ -2,6 +2,9 @@ killTheJob
 ==========
 
 Game For IT School Race
+![KTJ](https://lh4.googleusercontent.com/JG3zT502-LGA6p95Sl-lfuyOZmGcdAaTgyOhpO-AUYehycg15EhCQbQ2XAjkZzJVTXfJ=w1896-h859)
+
+
 
 #Description 
 KILL the job est un jeu de guerre dont l'objectif principal est d'éliminer les ennemies de chaque niveaux 
