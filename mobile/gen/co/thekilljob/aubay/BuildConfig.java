@@ -2,5 +2,5 @@
 package co.thekilljob.aubay;
 
 public final class BuildConfig {
-    public final static boolean DEBUG = false;
+    public final static boolean DEBUG = true;
 }
