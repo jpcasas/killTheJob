@@ -38,7 +38,7 @@ public class ScreenInformation {
     private final String SCORE="Points: ";
     private final String GAME_OVER="Game Over";
     private final String FINAL_SCORE="Résultat Final ";
-    private final String HIGHT_SCORE="Meillieur Score ";
+    private final String HIGHT_SCORE="Meilleur Score ";
 
     public ScreenInformation(AssetManager assetManager, Node guiNode, int screenWidth, int screenHeight) {
         this.assetManager = assetManager;
@@ -71,10 +71,7 @@ public class ScreenInformation {
 
     public void reset() {
         score = 0;
-
         lives = 4;
-
-
         scoreForExtraLife = 2000;
         updateHUD();
     }
@@ -82,7 +79,6 @@ public class ScreenInformation {
     private void updateHUD() {
         livesText.setText(LIVES + lives);
         scoreText.setText(SCORE + score);
-
     }
 
     public void addPoints(int basePoints) {
